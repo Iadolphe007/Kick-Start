@@ -1,3 +1,3 @@
-# This repository contain all Andela kick-start program weekly project
-# it start with odin recipes which is an HTML project
-# The second week project is Landing page ehich is a Css project
+# Kick-Start
+# This reposistory contain all project for andela kickstart programm
+# The first project will be Odin-recipes. HTML project from odin project
